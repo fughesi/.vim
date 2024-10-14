@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/fughesi/Projects/websites/Camillieri.com/client/media'
+let g:netrw_dirhist_5='/Users/fughesi/Projects/websites/Camillieri.com/client'
+let g:netrw_dirhist_4='/Users/fughesi/Projects/websites/Camillieri.com'
+let g:netrw_dirhist_3='/Users/fughesi/Projects/websites/Camillieri.com/client/pages/home'
+let g:netrw_dirhist_2='/Users/fughesi/Projects/websites/Camillieri.com/client/pages'
+let g:netrw_dirhist_1='/Users/fughesi/Projects/websites/Camillieri.com/client'
+let g:netrw_dirhist_0='/Users/fughesi/Projects/websites/Camillieri.com'
+let g:netrw_dirhist_9='/Users/fughesi/Projects/websites/Camillieri.com/client/pages/home'
+let g:netrw_dirhist_8='/Users/fughesi/Projects/websites/Camillieri.com/client/pages'
+let g:netrw_dirhist_7='/Users/fughesi/Projects/websites/Camillieri.com/client'
